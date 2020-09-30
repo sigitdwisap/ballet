@@ -85,6 +85,7 @@
 			<artifactId>cglib</artifactId>
 			<version>${cglib.version}</version>
 		</dependency>
+		<!-- -->
 
 		<!-- Hibernate -->
 		<dependency>
